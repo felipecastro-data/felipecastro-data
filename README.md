@@ -6,9 +6,9 @@ I'm a senior Analytics Engineer with 7+ years of experience transforming complex
 
 ---
 
-## 📌 Featured Projects (Coming Soon)
+## 📌 Featured Projects
 
-These public repos will showcase real-world, production-style solutions in SQL, Python, and PySpark:
+These public repos showcase real-world, production-style solutions in SQL, Python, and PySpark:
 
 ### 🐍 Python Projects
 - **1. Customer Churn Prediction** – Use of XGBoost, SHAP explainability, and deployment on Streamlit.
