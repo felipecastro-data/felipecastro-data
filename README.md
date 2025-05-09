@@ -11,7 +11,7 @@ I'm a senior Analytics Engineer with 7+ years of experience transforming complex
 These public repos showcase real-world, production-style solutions in SQL, Python, and PySpark:
 
 ### 🐍 Python Projects
-- **1. Customer Churn Prediction** – Use of XGBoost, SHAP explainability, and deployment on Streamlit.
+- **1. Customer Churn Prediction** – Built with XGBoost and Python. Results exported to CSV and explored with Power BI.
 - **2. Market Basket Analysis** – Association rules mining with visual insights in Power BI.
 
 ### 🧱 PySpark Projects
