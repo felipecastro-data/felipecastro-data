@@ -28,8 +28,11 @@ These public repos showcase real-world, production-style solutions in SQL, Pytho
 
 - 🎓 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)
 - 🎓 [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)
+- 🎓 [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/96572499DF943EBC?sharingId=13D660F56C1DFFA3)
 
 ---
+
+
 
 ## 🚀 Tools & Tech
 
