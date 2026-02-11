@@ -1,39 +1,44 @@
 # 👋 Hi, I'm Felipe Castro
 
-🎯 **Analytics Engineer** | 🧠 Data-Driven Decision Making | 💻 Power BI | Microsoft Fabric | Python | SQL | Azure
+🎯 **Senior Data Analytics Engineer** | 🧠 Data-Driven Decision Making | 💻 Microsoft Fabric | Power BI | Python | SQL | Azure
 
-I'm a senior Data Analytics Engineer with 8+ years of experience transforming complex data into strategic insights. I specialize in designing scalable data solutions using Microsoft Fabric, Power BI, PySpark, and SQL. Currently working at EPAM Systems, I'm focused on building robust ETL/ELT pipelines and high-impact dashboards that power business decisions at scale.
+I'm a senior Data Analytics Engineer with 8+ years of experience transforming complex data into strategic insights. I specialize in designing scalable data solutions using **Microsoft Fabric, Power BI, PySpark, and SQL**. Currently working at **EPAM Systems**, I focus on building robust ETL/ELT pipelines and high-impact dashboards that power business decisions at scale.
 
 ---
 
 ## 📌 Featured Projects
+*Click on the project titles to view the full repository and documentation.*
 
-These public repos showcase real-world, production-style solutions in SQL, Python, and PySpark:
+### 🧱 PySpark & Data Engineering
+* **[Delta Lake Crypto Pipeline](https://github.com/felipecastro-data/delta-lake-crypto-pipeline)** **Tech:** Microsoft Fabric, PySpark, CoinGecko API.  
+  **Impact:** Automated ingestion and transformation of live crypto data into a Bronze/Silver/Gold Delta Lake architecture for real-time analysis.
 
-### 🧱 PySpark Projects
-- **1. Delta Lake Crypto Pipeline** – Fabric Notebooks project: ingesting API data, cleaning, storing in Delta format.
-- **2. Log Analytics for Security** – Spark job to parse and analyze security logs with KPI alerts using Fabric Activator.
+* **[Log Analytics for Security](https://github.com/felipecastro-data/log-analytics-for-security)** **Tech:** PySpark, Fabric Activator, KQL.  
+  **Impact:** Engineered a monitoring solution to parse security logs and trigger automated alerts based on suspicious activity patterns.
 
-### 🐍 Python Projects
-- **3. Customer Churn Prediction** – Built with XGBoost and Python. Results exported to CSV and explored with Power BI.
-- **4. Market Basket Analysis** – Association rules mining with visual insights in Power BI.
+### 🐍 Python & Data Science
+* **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.  
+  **Impact:** Developed a machine learning model to identify high-risk customers, with a Power BI interface for business stakeholders to explore "what-if" scenarios.
 
-### 🐘 SQL Projects
-- **5. Data Warehouse for Retail** – Star schema design, partitioning strategy, and optimized SQL views.
-- **6. Advanced SQL Challenges** – Collection of complex queries solving real business use cases.
+* **[Market Basket Analysis](https://github.com/felipecastro-data/market-basket-analysis)** **Tech:** Python (Apriori/FP-Growth), Pandas, Power BI.  
+  **Impact:** Uncovered product associations in retail data to optimize cross-selling strategies and inventory placement.
+
+### 🐘 SQL & Architecture
+* **[Data Warehouse for Retail](https://github.com/felipecastro-data/data-warehouse-for-retail)** **Tech:** T-SQL, Star Schema Modeling, Partitioning.  
+  **Impact:** Designed a scalable Star Schema warehouse optimized for high-volume retail transactions and complex analytical querying.
+
+* **[Advanced SQL Challenges](https://github.com/felipecastro-data/advanced-sql-challenges)** **Tech:** Advanced SQL (CTEs, Window Functions, Optimization).  
+  **Impact:** A curated collection of complex business logic problems solved using highly optimized SQL performance patterns.
 
 ---
 
 ## 📜 Certifications
 
-- 🎓 [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/96572499DF943EBC?sharingId=13D660F56C1DFFA3)
-- 🎓 [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)
-- 🎓 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)
-
+- 🏅 **[DP-700: Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/96572499DF943EBC?sharingId=13D660F56C1DFFA3)**
+- 🏅 **[DP-600: Microsoft Certified: Fabric Analytics Engineer Associate](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)**
+- 🏅 **[PL-300: Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)**
 
 ---
-
-
 
 ## 🚀 Tools & Tech
 
@@ -47,5 +52,4 @@ These public repos showcase real-world, production-style solutions in SQL, Pytho
 
 ---
 
-💬 *Let's connect and build amazing things with data.*  
-🔗 [LinkedIn](https://www.linkedin.com/in/felipe-castro-566129164/)
+💬 *Let's connect and build amazing things with data.* 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-castro-566129164/)
