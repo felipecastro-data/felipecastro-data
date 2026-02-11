@@ -10,13 +10,13 @@ I'm a senior Analytics Engineer with 8+ years of experience transforming complex
 
 These public repos showcase real-world, production-style solutions in SQL, Python, and PySpark:
 
-### 🐍 Python Projects
-- **1. Customer Churn Prediction** – Built with XGBoost and Python. Results exported to CSV and explored with Power BI.
-- **2. Market Basket Analysis** – Association rules mining with visual insights in Power BI.
-
 ### 🧱 PySpark Projects
-- **3. Delta Lake Crypto Pipeline** – Fabric Notebooks project: ingesting API data, cleaning, storing in Delta format.
-- **4. Log Analytics for Security** – Spark job to parse and analyze security logs with KPI alerts using Fabric Activator.
+- **1. Delta Lake Crypto Pipeline** – Fabric Notebooks project: ingesting API data, cleaning, storing in Delta format.
+- **2. Log Analytics for Security** – Spark job to parse and analyze security logs with KPI alerts using Fabric Activator.
+
+### 🐍 Python Projects
+- **3. Customer Churn Prediction** – Built with XGBoost and Python. Results exported to CSV and explored with Power BI.
+- **4. Market Basket Analysis** – Association rules mining with visual insights in Power BI.
 
 ### 🐘 SQL Projects
 - **5. Data Warehouse for Retail** – Star schema design, partitioning strategy, and optimized SQL views.
@@ -26,9 +26,10 @@ These public repos showcase real-world, production-style solutions in SQL, Pytho
 
 ## 📜 Certifications
 
-- 🎓 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)
-- 🎓 [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)
 - 🎓 [Microsoft Certified: Fabric Data Engineer Associate (DP-700)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/96572499DF943EBC?sharingId=13D660F56C1DFFA3)
+- 🎓 [Microsoft Certified: Fabric Analytics Engineer Associate (DP-600)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/6C5A2F5A8A5864FC?sharingId=13D660F56C1DFFA3)
+- 🎓 [Microsoft Certified: Power BI Data Analyst Associate (PL-300)](https://learn.microsoft.com/api/credentials/share/en-us/FelipeCastro-8026/F853AABE365874B3?sharingId=13D660F56C1DFFA3)
+
 
 ---
 
