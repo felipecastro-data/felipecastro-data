@@ -2,7 +2,7 @@
 
 🎯 **Analytics Engineer** | 🧠 Data-Driven Decision Making | 💻 Power BI | Microsoft Fabric | Python | SQL | Azure
 
-I'm a senior Analytics Engineer with 8+ years of experience transforming complex data into strategic insights. I specialize in designing scalable data solutions using Microsoft Fabric, Power BI, PySpark, and SQL. Currently working at EPAM Systems, I'm focused on building robust ETL/ELT pipelines and high-impact dashboards that power business decisions at scale.
+I'm a senior Data Analytics Engineer with 8+ years of experience transforming complex data into strategic insights. I specialize in designing scalable data solutions using Microsoft Fabric, Power BI, PySpark, and SQL. Currently working at EPAM Systems, I'm focused on building robust ETL/ELT pipelines and high-impact dashboards that power business decisions at scale.
 
 ---
 
