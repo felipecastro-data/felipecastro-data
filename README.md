@@ -15,7 +15,7 @@ These public repos showcase real-world, production-style solutions in SQL, Pytho
 - **2. Market Basket Analysis** – Association rules mining with visual insights in Power BI.
 
 ### 🧱 PySpark Projects
-- **3. Delta Lake Data Pipeline** – Fabric Notebooks project: ingesting API data, cleaning, storing in Delta format.
+- **3. Delta Lake Crypto Pipeline** – Fabric Notebooks project: ingesting API data, cleaning, storing in Delta format.
 - **4. Log Analytics for Security** – Spark job to parse and analyze security logs with KPI alerts using Fabric Activator.
 
 ### 🐘 SQL Projects
