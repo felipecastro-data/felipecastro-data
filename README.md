@@ -13,8 +13,8 @@ I'm a senior Data Analytics Engineer with 8+ years of experience transforming co
 * **[Delta Lake Crypto Pipeline](https://github.com/felipecastro-data/delta-lake-crypto-pipeline)** **Tech:** Microsoft Fabric, PySpark, CoinGecko API.  
   **Impact:** Automated ingestion and transformation of live crypto data into a Bronze/Silver/Gold Delta Lake architecture for real-time analysis.
 
-* **[Log Analytics for Security](https://github.com/felipecastro-data/log-analytics-for-security)** **Tech:** Microsoft Fabric, PySpark, Delta Lake.  
-  **Impact:** Engineered a Spark-based log processing engine to parse complex security logs, perform anomaly detection, and generate high-impact security KPI reports.
+* **[NYC Taxi Medallion Architecture](https://github.com/felipecastro-data/nyc-taxi-medallion-fabric)** **Tech:** Microsoft Fabric, PySpark, Delta Lake.  
+  **Impact:** Engineered an end-to-end Medallion pipeline using PySpark notebooks, implementing incremental refresh via Delta Merge (Upsert) logic to handle high-volume trip data efficiently.
 
 ### 🐍 Python & Data Science
 * **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.  
