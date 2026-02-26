@@ -10,28 +10,21 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 ---
 
 ## 📌 Featured Projects
-*Click on the project titles to view the full repository and documentation.*
+*Selected work showcasing end-to-end data engineering and AI-ready architectures.*
 
-### 🧱 PySpark & Data Engineering
+### 🧱 Microsoft Fabric & Data Engineering
 * **[Real-Time Stock Volatility](https://github.com/felipecastro-data/real-time-stock-volatility-fabric)** **Tech:** Microsoft Fabric, Spark Structured Streaming, PySpark, yfinance API.  
   **Impact:** Engineered a real-time streaming pipeline using Hopping Windows and Watermarking to analyze market volatility spikes with exactly-once processing semantics.
   
 * **[NYC Taxi Medallion Architecture](https://github.com/felipecastro-data/nyc-taxi-medallion-fabric)** **Tech:** Microsoft Fabric, PySpark, Delta Lake.  
   **Impact:** Engineered an end-to-end Medallion pipeline using PySpark notebooks, implementing incremental refresh via Delta Merge (Upsert) logic to handle high-volume trip data efficiently.
 
-### 🐍 Python & Data Science
-* **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.  
-  **Impact:** Developed a machine learning model to identify high-risk customers, with a Power BI interface for business stakeholders to explore "what-if" scenarios.
-
-* **[Market Basket Analysis](https://github.com/felipecastro-data/market-basket-analysis)** **Tech:** Python (Apriori/FP-Growth), Pandas, Power BI.  
-  **Impact:** Uncovered product associations in retail data to optimize cross-selling strategies and inventory placement.
-
-### 🐘 SQL & Architecture
+### 🐘 Enterprise Architecture & Machine Learning
 * **[Data Warehouse for Retail](https://github.com/felipecastro-data/data-warehouse-for-retail)** **Tech:** T-SQL, Star Schema Modeling, Partitioning.  
-  **Impact:** Designed a scalable Star Schema warehouse optimized for high-volume retail transactions and complex analytical querying.
+  **Impact:** Designed a scalable Star Schema warehouse optimized for high-volume retail transactions and complex analytical querying, ensuring sub-second report performance.
 
-* **[Advanced SQL Challenges](https://github.com/felipecastro-data/advanced-sql-challenges)** **Tech:** Advanced SQL (CTEs, Window Functions, Optimization).  
-  **Impact:** A curated collection of complex business logic problems solved using highly optimized SQL performance patterns.
+* **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.  
+  **Impact:** Developed a predictive machine learning model to identify high-risk customers, integrating a Power BI "what-if" simulator for business strategy optimization.
 
 ---
 
