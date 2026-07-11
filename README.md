@@ -22,8 +22,8 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 
 ### 🐘 Enterprise Architecture & Machine Learning
 
-* **[Data Warehouse for Retail](https://github.com/felipecastro-data/data-warehouse-for-retail)** **Tech:** T-SQL, Star Schema Modeling, Partitioning.
-  **Impact:** Designed a scalable Star Schema warehouse optimized for high-volume retail transactions and complex analytical querying, ensuring sub-second report performance.
+* **[Market Basket Analysis](https://github.com/felipecastro-data/market-basket-analysis)** **Tech:** Python, Apriori, FP-Growth, Power BI.
+  **Impact:** Built a market basket analysis solution using Apriori and FP-Growth to uncover product association rules, delivering a Power BI dashboard that surfaces cross-sell opportunities and co-purchase patterns.
 
 * **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.
   **Impact:** Developed a predictive machine learning model to identify high-risk customers, integrating a Power BI "what-if" simulator for business strategy optimization.
