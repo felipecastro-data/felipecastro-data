@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Felipe Castro
-🎯 **Senior Data Analytics Engineer** | ☁️ **Microsoft Fabric & Azure Expert** | Data Engineering · Generative AI · LLM Solutions
+🎯 **Senior Data Analytics Engineer** | ☁️ **Microsoft Fabric & Azure Expert** | Data Engineering · Real-Time Analytics
 
 I am a Senior Data Analytics Engineer with 8+ years of experience transforming complex data into strategic, AI-ready insights. I specialize in architecting scalable Medallion Lakehouses and Real-Time Streaming pipelines within the Microsoft Fabric ecosystem.
 
-Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and high-impact Generative AI solutions that simplify complexity and drive business value.
+Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and real-time analytics solutions that simplify complexity and drive business value.
 
-🛠️ **Top Tech:** Microsoft Fabric | Azure OpenAI | Large Language Models (LLM) | PySpark | Python
+🛠️ **Top Tech:** Microsoft Fabric | Delta Lake | Spark Structured Streaming | PySpark | Python
 
 ---
 
