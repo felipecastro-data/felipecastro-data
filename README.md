@@ -28,6 +28,14 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 * **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.
   **Impact:** Developed a predictive machine learning model to identify high-risk customers, integrating a Power BI "what-if" simulator for business strategy optimization.
 
+### 🤖 AI & Multi-Agent Systems
+
+* **[Claude Multi-Agent Blog Digest](https://github.com/felipecastro-data/claude-multi-agent-blog-digest)** **Tech:** Claude Code, GitHub Actions, GitHub Pages.
+**Impact:** Built an autonomous 2-agent Claude Code pipeline that collects and formats daily Claude blog posts into a nightly digest, deployed as an iOS-installable web app.
+
+* **[LinkedIn Profile Audit](https://github.com/felipecastro-data/multi-agent-linkedin-profile-review)** **Tech:** Claude Code, Claude in Chrome, Python, ReportLab.
+**Impact:** Designed a four-stage multi-agent pipeline that scrapes a LinkedIn profile and synthesizes career-coach and recruiter analysis into a PDF audit report with 3-year career trajectory guidance.
+
 ---
 
 ## 📜 Certifications
