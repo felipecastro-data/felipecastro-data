@@ -30,8 +30,8 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 
 ### 🤖 AI & Multi-Agent Systems
 
-* **[Claude Multi-Agent Blog Digest](https://github.com/felipecastro-data/claude-multi-agent-blog-digest)** **Tech:** Claude Code, GitHub Actions, GitHub Pages.
-**Impact:** Built an autonomous 2-agent Claude Code pipeline that collects and formats daily Claude blog posts into a nightly digest, deployed as an iOS-installable web app.
+* **[Medallion Data Dictionary RAG](https://github.com/felipecastro-data/medallion-data-dictionary-rag-system)** **Tech:** Python, Databricks SQL, MCP, Anthropic API, Voyage AI, ChromaDB, Streamlit.
+**Impact:** Built a RAG chatbot that auto-generates and answers questions about a data dictionary over a Databricks Medallion lakehouse, using a Claude-powered subagent to draft column descriptions and Voyage AI/ChromaDB retrieval to answer natural-language queries via the Anthropic API.
 
 * **[LinkedIn Profile Audit](https://github.com/felipecastro-data/multi-agent-linkedin-profile-review)** **Tech:** Claude Code, Claude in Chrome, Python, ReportLab.
 **Impact:** Designed a four-stage multi-agent pipeline that scrapes a LinkedIn profile and synthesizes career-coach and recruiter analysis into a PDF audit report with 3-year career trajectory guidance.
