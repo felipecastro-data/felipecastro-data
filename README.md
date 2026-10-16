@@ -20,14 +20,6 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 * **[NYC Taxi Medallion Architecture](https://github.com/felipecastro-data/nyc-taxi-medallion-fabric)** **Tech:** Microsoft Fabric, PySpark, Delta Lake.
   **Impact:** Engineered an end-to-end Medallion pipeline using PySpark notebooks, implementing incremental refresh via Delta Merge (Upsert) logic to handle high-volume trip data efficiently.
 
-### 🐘 Enterprise Architecture & Machine Learning
-
-* **[Market Basket Analysis](https://github.com/felipecastro-data/market-basket-analysis)** **Tech:** Python, Apriori, FP-Growth, Power BI.
-  **Impact:** Built a market basket analysis solution using Apriori and FP-Growth to uncover product association rules, delivering a Power BI dashboard that surfaces cross-sell opportunities and co-purchase patterns.
-
-* **[Customer Churn Prediction](https://github.com/felipecastro-data/customer-churn-prediction)** **Tech:** Python, XGBoost, Scikit-Learn, Power BI.
-  **Impact:** Developed a predictive machine learning model to identify high-risk customers, integrating a Power BI "what-if" simulator for business strategy optimization.
-
 ### 🤖 AI & Multi-Agent Systems
 
 * **[Medallion Data Dictionary RAG](https://github.com/felipecastro-data/medallion-data-dictionary-rag-system)** **Tech:** Python, Databricks SQL, MCP, Anthropic API, Voyage AI, ChromaDB, Streamlit.
