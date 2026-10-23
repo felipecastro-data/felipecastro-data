@@ -17,8 +17,8 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 * **[Real-Time Stock Volatility](https://github.com/felipecastro-data/real-time-stock-volatility-fabric)** **Tech:** Microsoft Fabric, Spark Structured Streaming, PySpark, yfinance API.
   **Impact:** Engineered a real-time streaming pipeline using Hopping Windows and Watermarking to analyze market volatility spikes with exactly-once processing semantics.
 
-* **[NYC Taxi Medallion Architecture](https://github.com/felipecastro-data/nyc-taxi-medallion-fabric)** **Tech:** Microsoft Fabric, PySpark, Delta Lake.
-  **Impact:** Engineered an end-to-end Medallion pipeline using PySpark notebooks, implementing incremental refresh via Delta Merge (Upsert) logic to handle high-volume trip data efficiently.
+* **[Fabric Medallion CI/CD with Terraform](https://github.com/felipecastro-data/fabric-medallion-cicd-terraform)** **Tech:** Microsoft Fabric, Terraform, GitHub Actions, Deployment Pipelines, PySpark, Delta Lake.
+  **Impact:** Built a production-grade Medallion lakehouse (1.6M Chicago bike trips + weather) provisioned with Terraform and promoted dev → test → prod by GitHub Actions with OIDC (no secrets) and an approval gate, guarded by 117 unit tests and a 45-check data-quality gate that blocks bad releases.
 
 ### 🤖 AI & Multi-Agent Systems
 
