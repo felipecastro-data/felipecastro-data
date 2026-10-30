@@ -20,6 +20,11 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 * **[Fabric Medallion CI/CD with Terraform](https://github.com/felipecastro-data/fabric-medallion-cicd-terraform)** **Tech:** Microsoft Fabric, Terraform, GitHub Actions, Deployment Pipelines, PySpark, Delta Lake.
   **Impact:** Built a production-grade Medallion lakehouse (1.6M Chicago bike trips + weather) provisioned with Terraform and promoted dev → test → prod by GitHub Actions with OIDC (no secrets) and an approval gate, guarded by 117 unit tests and a 45-check data-quality gate that blocks bad releases.
 
+### 🏛️ Data Architecture & Data Governance
+
+* **[Lakehouse Governance as Code](https://github.com/felipecastro-data/lakehouse-governance-as-code)** **Tech:** Databricks, Unity Catalog, Python, Databricks Asset Bundles, GitHub Actions, Delta Lake, AI/BI Dashboards.
+  **Impact:** Declared Unity Catalog governance as code: YAML policy rendered by a Python engine into idempotent SQL and promoted dev → prod by GitHub Actions with a service principal and an approval gate, enforcing ABAC masking of PII, failing the pipeline on grant drift, honoring GDPR right-to-erasure, and publishing an auditor scorecard (100% owned, classified and PII-masked, 0 drift) guarded by 90 unit tests.
+
 ### 🤖 AI & Multi-Agent Systems
 
 * **[Medallion Data Dictionary RAG](https://github.com/felipecastro-data/medallion-data-dictionary-rag-system)** **Tech:** Python, Databricks SQL, MCP, Anthropic API, Voyage AI, ChromaDB, Streamlit.
