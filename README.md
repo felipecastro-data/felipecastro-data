@@ -56,4 +56,4 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 
 ---
 
-💬 *Let's connect and build amazing things with data.* 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-castro-566129164/)
+💬 *Let's connect and build amazing things with data.* 🔗 [LinkedIn](https://www.linkedin.com/in/felipecastro-data/)
