@@ -25,6 +25,9 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 * **[Lakehouse Governance as Code](https://github.com/felipecastro-data/lakehouse-governance-as-code)** **Tech:** Databricks, Unity Catalog, Python, Databricks Asset Bundles, GitHub Actions, Delta Lake, AI/BI Dashboards.
   **Impact:** Declared Unity Catalog governance as code: YAML policy rendered by a Python engine into idempotent SQL and promoted dev → prod by GitHub Actions with a service principal and an approval gate, enforcing ABAC masking of PII, failing the pipeline on grant drift, honoring GDPR right-to-erasure, and publishing an auditor scorecard (100% owned, classified and PII-masked, 0 drift) guarded by 90 unit tests.
 
+* **[Fabric Data Mesh with Purview Governance](https://github.com/felipecastro-data/fabric-domain-architecture-purview-governance)** **Tech:** Microsoft Fabric, Microsoft Purview, OneLake, Terraform, Microsoft Entra ID, GitHub Actions, Python.
+  **Impact:** Designed a 3-domain data mesh on Fabric as code: producer and consumer domains publish data products through 12 OneLake shortcuts (485 MB served in place, 0 bytes copied), with least-privilege OneLake security roles enforced at every hop, plus Purview sensitivity labels, endorsement, tags and lineage. Two Terraform stacks deploy through GitHub Actions with OIDC and an approval gate, and a daily compliance check fails on any drift between the tenant and the code.
+
 ### 🤖 AI & Multi-Agent Systems
 
 * **[Medallion Data Dictionary RAG](https://github.com/felipecastro-data/medallion-data-dictionary-rag-system)** **Tech:** Python, Databricks SQL, MCP, Anthropic API, Voyage AI, ChromaDB, Streamlit.
