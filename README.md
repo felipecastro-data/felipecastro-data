@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Felipe Castro
-🎯 **Senior Data Engineer** | ☁️ **Microsoft Fabric & Azure Expert** | Data Engineering · Real-Time Analytics
+**Senior Data Engineer** · Microsoft Fabric & Azure · Lakehouses, real-time streaming and data governance as code
 
-I am a Senior Data Engineer with 8+ years of experience transforming complex data into strategic, AI-ready insights. I specialize in architecting scalable Medallion Lakehouses and Real-Time Streaming pipelines within the Microsoft Fabric ecosystem.
+I build medallion lakehouses and real-time streaming pipelines on Microsoft Fabric, deployed as code (Terraform + GitHub Actions, dev → test → prod) and governed with Microsoft Purview and Unity Catalog. 8+ years in data engineering, currently at EPAM Systems.
 
-Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and real-time analytics solutions that simplify complexity and drive business value.
+**Focus:** lakehouse architecture · streaming · CI/CD and IaC for data platforms · data governance and data mesh
 
 🛠️ **Top Tech:** Microsoft Fabric | Delta Lake | Spark Structured Streaming | PySpark | Python
 
@@ -60,11 +60,6 @@ Currently at EPAM Systems, I focus on building robust ETL/ELT architectures and 
 ![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=Microsoft%20Azure&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6446?style=flat)
 
 ---
 
